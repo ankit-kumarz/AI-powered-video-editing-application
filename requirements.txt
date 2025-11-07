@@ -1,0 +1,8 @@
+# AI Video Editor - Main Requirements
+# This file points to the backend requirements for easier setup
+
+# Install backend requirements
+-r backend/requirements.txt
+
+# Additional development dependencies (optional)
+-r backend/requirements_dev.txt

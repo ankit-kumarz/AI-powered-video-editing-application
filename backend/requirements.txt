@@ -1,0 +1,30 @@
+# Core FastAPI dependencies
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+python-multipart==0.0.6
+aiofiles==23.2.1
+
+# Video processing
+ffmpeg-python==0.2.0
+opencv-python==4.8.1.78
+numpy==1.24.3
+Pillow==10.0.1
+pydub==0.25.1
+
+# AI/ML libraries
+rembg==2.0.50
+openai-whisper==20231117
+scenedetect==0.6.2
+TTS==0.22.0
+torch==2.1.1
+torchvision==0.16.1
+mediapipe==0.10.7
+gTTS==2.5.3
+scikit-image==0.21.0
+
+# Translation and language processing
+googletrans==4.0.0rc1
+
+# Additional utilities
+python-magic==0.4.27
+pathlib2==2.3.7

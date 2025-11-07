@@ -1,0 +1,200 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+.venv/
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Logs
+*.log
+logs/
+backend_stderr.log
+backend_stdout.log
+backend_server.log
+
+# Temporary files and directories
+temp/
+tmp/
+*.tmp
+*.temp
+uploads/
+processed/
+
+# Test files (should not be pushed to production repo)
+test_*.py
+test_output.srt
+*.test.py
+*_test.py
+
+# Video and media files (sample/test files)
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.webm
+*.mp3
+*.wav
+*.flac
+*.srt
+*.vtt
+
+# Model files and AI artifacts
+*.pth
+*.pt
+*.onnx
+*.pb
+models/
+checkpoints/
+
+# Node.js (if frontend uses it)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.npm
+.yarn-integrity
+
+# Next.js
+.next/
+out/
+
+# Build outputs
+build/
+dist/
+*.tgz
+*.tar.gz
+
+# Coverage reports
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# pyenv
+.python-version
+
+# pipenv
+Pipfile.lock
+
+# PEP 582
+__pypackages__/
+
+# Celery
+celerybeat-schedule
+celerybeat.pid
+
+# SageMath parsed files
+*.sage.py
+
+# Spyder project settings
+.spyderproject
+.spyproject
+
+# Rope project settings
+.ropeproject
+
+# mkdocs documentation
+/site
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyre type checker
+.pyre/
+
+# PyCharm
+.idea/
+
+# Windows
+*.lnk
+
+# FFmpeg temporary files
+*.ffmpeg
+*.ffprobe
+
+# CUDA cache
+.nv/
+
+# Temporary AI processing files
+*.npy
+*.npz
+
+# Additional exclusions
+*.bak
+*.backup
+*.orig
+*.rej
+*.pid
+*.seed
+*.pid.lock
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Configuration files with sensitive data
+config.ini
+config.json
+settings.json
+secrets.json
