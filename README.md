@@ -455,3 +455,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [ ] **Real-time Preview**: Live preview of editing suggestions
 
 ---
+
+## 📬 Contact:
+For any questions or feedback, feel free to contact:
+
+Author - Ankit kumar 
+Email: your-ankitrajj1068@gmail.com 
+GitHub: https://github.com/ankit-kumarz
