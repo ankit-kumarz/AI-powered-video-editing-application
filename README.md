@@ -123,7 +123,7 @@ videoeditor/
 #### Option 1: Automated Setup (Recommended)
 ```bash
 # Clone the repository
-git clone <repository-url>
+git clone https://github.com/ankit-kumarz/AI-powered-video-editing-application
 cd videoeditor
 
 # Windows (PowerShell)
@@ -457,6 +457,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [ ] **Real-time Preview**: Live preview of editing suggestions
 
 ---
-
-**AI Video Editor** - Transform your videos with the power of AI! 🎬✨
->>>>>>> 5bc14f8 (Initial import of AI Video Editor project)
