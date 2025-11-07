@@ -113,7 +113,7 @@ videoeditor/
 ### Prerequisites
 - **Python**: 3.10 or higher
 - **Node.js**: 18 or higher
-- **FFmpeg**: Installed and added to system PATH
+- **FFmpeg**: Installed and added to system Path
 - **Git**: For cloning the repository
 
 ### Installation
