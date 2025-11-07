@@ -460,5 +460,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 For any questions or feedback, feel free to contact:
 
 Author - Ankit kumar 
-Email: your-ankitrajj1068@gmail.com 
+Email: ankitrajj1068@gmail.com 
 GitHub: https://github.com/ankit-kumarz
