@@ -169,7 +169,7 @@ npm run dev
 
 ### Access the Application
 - **Frontend**: Open your browser to `http://localhost:3000`
-- **Backend API**: Available at `http://localhost:8000`
+- **Backend API**: Available at `http://localhost:8000` 
 - **API Documentation**: Visit `http://localhost:8000/docs` for interactive API docs
 
 ## 📖 Usage Guide
