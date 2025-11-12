@@ -100,7 +100,7 @@ videoeditor/
 - **Framework**: Next.js 14 with App Router
 - **Language**: TypeScript
 - **Styling**: Tailwind CSS
-- **UI Components**: 
+- **UI Components**:  
   - Lucide React (Icons)
   - Framer Motion (Animations)
   - React Dropzone (File uploads)
