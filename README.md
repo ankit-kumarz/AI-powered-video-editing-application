@@ -148,7 +148,7 @@ cd ..
 
 ### Running the Application
 
-#### Option 1: Automated Start (Recommended)
+#### Option 1: Automated Start (Recommended) 
 ```bash
 # Windows (PowerShell)
 .\start.ps1
