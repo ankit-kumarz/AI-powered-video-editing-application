@@ -317,7 +317,7 @@ uvicorn.run(app, host="0.0.0.0", port=8000)
 
 ### Common Issues
 
-#### FFmpeg Not Found
+#### FFmpeg Not Found 
 ```bash
 # Windows: Download from https://ffmpeg.org/download.html
 # Add to PATH environment variable
