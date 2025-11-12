@@ -162,7 +162,7 @@ start.bat
 # Terminal 1: Start backend server
 python run_backend.py
 
-# Terminal 2: Start frontend development server
+# Terminal 2: Start frontend development server 
 cd frontend
 npm run dev
 ```
