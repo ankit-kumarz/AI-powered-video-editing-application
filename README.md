@@ -328,7 +328,7 @@ ffmpeg -version
 #### Processing Fails
 - **Check video format**: Ensure it's MP4, MOV, or WebM
 - **Check file size**: Maximum 500MB
-- **Check duration**: Maximum 10 minutes
+- **Check duration**: Maximum 10 minutes 
 - **Check disk space**: Ensure sufficient storage for processing
 
 #### Download Issues
