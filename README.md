@@ -306,7 +306,7 @@ GOOGLE_TRANSLATE_API_KEY=your_google_translate_key
 ```
 
 ### API Configuration
-The backend server runs on port 8000 by default. You can modify this in `backend/main.py`:
+The backend server runs on port 8000 by default. You can modify this in `backend/main.py`: 
 
 ```python
 # Change the port in the uvicorn.run() call
