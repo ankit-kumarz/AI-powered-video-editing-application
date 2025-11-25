@@ -46,7 +46,7 @@ videoeditor/
 │   │   ├── subtitles.py
 │   │   ├── video_compilation.py
 │   │   ├── voice_translate.py
-│   │   └── voice_translate_optimized.py
+│   │   └── voice_translate_optimized.py 
 │   ├── requirements.txt       # Python dependencies
 │   └── temp/                  # Temporary file storage
 ├── frontend/                  # Next.js frontend application
