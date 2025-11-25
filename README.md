@@ -93,7 +93,7 @@ videoeditor/
   - OpenCV (Video analysis and frame processing)
 - **Video Processing**: FFmpeg, OpenCV
 - **File Handling**: aiofiles, pathlib
-- **Performance**: ThreadPoolExecutor for parallel processing
+- **Performance**: ThreadPoolExecutor for parallel processing 
 
 #### Frontend (Next.js/React)
 - **Framework**: Next.js 14 with App Router
