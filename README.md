@@ -1,5 +1,5 @@
 # AI Video Editor 🎬
-
+ 
 A powerful, full-stack AI-powered video editing application that combines cutting-edge machine learning technologies to transform your videos with minimal effort. Built with modern web technologies and advanced AI services. 
 
 ## 🌟 Features 
