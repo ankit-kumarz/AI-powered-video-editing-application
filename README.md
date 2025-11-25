@@ -87,7 +87,7 @@ videoeditor/
 - **AI/ML Libraries**:
   - OpenAI Whisper (Speech recognition)
   - Rembg (Background removal)
-  - PySceneDetect (Scene detection)
+  - PySceneDetect (Scene detection) 
   - Coqui TTS (Text-to-speech)
   - Google Translate (Translation)
   - MediaPipe (Computer vision)
