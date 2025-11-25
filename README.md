@@ -103,7 +103,7 @@ videoeditor/
 - **UI Components**:  
   - Lucide React (Icons)
   - Framer Motion (Animations)
-  - React Dropzone (File uploads)
+  - React Dropzone (File uploads) 
   - Video.js (Video player)
 - **HTTP Client**: Axios
 - **Utilities**: clsx, class-variance-authority, tailwind-merge
