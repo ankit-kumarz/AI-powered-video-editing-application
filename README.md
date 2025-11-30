@@ -108,7 +108,7 @@ videoeditor/
 - **Utilities**: clsx, class-variance-authority, tailwind-merge
 
 ## 🚀 Quick Start Guide
-
+ 
 ### Prerequisites
 - **Python**: 3.10 or higher
 - **Node.js**: 18 or higher
