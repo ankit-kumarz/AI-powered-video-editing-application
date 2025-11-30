@@ -239,7 +239,7 @@ For AI editing:
 - **Timeline Navigation**: Use the interactive timeline to explore suggestions
 - **Filter Options**: Filter by suggestion type or search by description
 - **Detailed View**: Click suggestions to see full details and reasoning
-- **Compact Mode**: Toggle between detailed and compact views
+- **Compact Mode**: Toggle between detailed and compact views 
 
 ### 7. Download Results
 - Download buttons appear automatically after processing
