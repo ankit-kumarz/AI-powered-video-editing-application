@@ -188,7 +188,7 @@ Choose from individual AI features or use the comprehensive "AI Video Optimizati
 - **🎭 Background Removal**: Remove and replace video backgrounds
 - **📝 Subtitle Generation**: Generate subtitles from speech
 - **🎬 Scene Detection**: Split video into individual scenes
-- **🌍 Voice Translation**: Translate speech to different languages
+- **🌍 Voice Translation**: Translate speech to different languages 
 - **🎨 Style Filters**: Apply artistic filters to your video
 - **🚫 Object Removal**: Remove unwanted objects from video (3-4x faster with parallel processing)
 - **✂️ Auto-Cut Silence**: Remove silent parts automatically
