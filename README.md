@@ -146,7 +146,7 @@ cd ..
 ```
 
 ### Running the Application
-
+ 
 #### Option 1: Automated Start (Recommended) 
 ```bash
 # Windows (PowerShell)
