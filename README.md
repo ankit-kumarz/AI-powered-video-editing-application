@@ -178,7 +178,7 @@ npm run dev
 - Supported formats: MP4, MOV, WebM
 - Maximum file size: 500MB
 - Maximum duration: 10 minutes
-
+ 
 ### 2. Select Features
 Choose from individual AI features or use the comprehensive "AI Video Optimization":
 
