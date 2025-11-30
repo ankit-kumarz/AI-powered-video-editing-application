@@ -199,7 +199,7 @@ Choose from individual AI features or use the comprehensive "AI Video Optimizati
 - Includes scene analysis, silence removal, subtitle generation, and quality optimization
 
 ### 3. AI Film Editing Suggestions
-The new AI Film Editing Suggestions feature provides:
+The new AI Film Editing Suggestions feature provides: 
 
 #### 🎯 **Editing Suggestion Types**:
 - **✂️ Cuts**: Scene change detection, action moments, composition-based cuts
