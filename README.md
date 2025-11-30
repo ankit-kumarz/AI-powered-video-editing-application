@@ -92,7 +92,7 @@ videoeditor/
   - MediaPipe (Computer vision)
   - OpenCV (Video analysis and frame processing)
 - **Video Processing**: FFmpeg, OpenCV
-- **File Handling**: aiofiles, pathlib
+- **File Handling**: aiofiles, pathlib 
 - **Performance**: ThreadPoolExecutor for parallel processing 
 
 #### Frontend (Next.js/React)
