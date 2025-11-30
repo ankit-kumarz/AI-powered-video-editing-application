@@ -131,7 +131,7 @@ install_dependencies.bat
 ```
 
 #### Option 2: Manual Setup
-```bash
+```bash 
 # Clone the repository
 git clone https://github.com/ankit-kumarz/AI-powered-video-editing-application 
 cd videoeditor
