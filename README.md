@@ -100,7 +100,7 @@ videoeditor/
 - **Language**: TypeScript
 - **Styling**: Tailwind CSS
 - **UI Components**:  
-  - Lucide React (Icons)
+  - Lucide React (Icons) 
   - Framer Motion (Animations)
   - React Dropzone (File uploads) 
   - Video.js (Video player)
