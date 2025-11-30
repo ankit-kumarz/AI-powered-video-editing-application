@@ -133,7 +133,7 @@ install_dependencies.bat
 #### Option 2: Manual Setup
 ```bash
 # Clone the repository
-git clone https://github.com/ankit-kumarz/AI-powered-video-editing-application
+git clone https://github.com/ankit-kumarz/AI-powered-video-editing-application 
 cd videoeditor
 
 # Install Python dependencies
