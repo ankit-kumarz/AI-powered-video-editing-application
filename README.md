@@ -248,7 +248,7 @@ For AI editing:
 
 ## 🎬 AI Film Editing Features
 
-### Intelligent Video Analysis
+### Intelligent Video Analysis 
 The AI editing system analyzes your video using multiple techniques:
 
 #### **Video-Based Analysis**:
