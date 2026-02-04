@@ -54,7 +54,7 @@ videoeditor/
 │   │   ├── components/        # React components
 │   │   │   ├── AIEditingSelector.tsx      # AI editing feature selector
 │   │   │   ├── AIEditingSuggestions.tsx   # Interactive suggestions display
-│   │   │   ├── ScriptInput.tsx            # Script input component
+│   │   │   ├── ScriptInput.tsx            # Script input component 
 │   │   │   ├── FeatureSelector.tsx
 │   │   │   ├── ProcessingStatus.tsx 
 │   │   │   ├── StyleFilterSelector.tsx
