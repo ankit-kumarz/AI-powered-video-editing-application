@@ -87,7 +87,7 @@ videoeditor/
   - OpenAI Whisper (Speech recognition)
   - Rembg (Background removal)
   - PySceneDetect (Scene detection) 
-  - Coqui TTS (Text-to-speech)
+  - Coqui TTS (Text-to-speech) 
   - Google Translate (Translation)
   - MediaPipe (Computer vision)
   - OpenCV (Video analysis and frame processing)
