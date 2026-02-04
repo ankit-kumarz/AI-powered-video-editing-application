@@ -65,7 +65,7 @@ videoeditor/
 │   │   ├── api/               # API routes
 │   │   │   └── process-ai-editing/        # AI editing API endpoint
 │   │   ├── compilation/       # Compilation-related pages
-│   │   ├── globals.css        # Global styles
+│   │   ├── globals.css        # Global styles 
 │   │   ├── layout.tsx         # Root layout
 │   │   └── page.tsx           # Main page
 │   ├── package.json           # Node.js dependencies
