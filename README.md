@@ -27,7 +27,7 @@ A Powerful, Full-Stack AI-powered video editing application that combines cuttin
 - **Suggestion Filtering**: Filter suggestions by type (cuts, transitions, emphasis, pace changes)
 - **Compact Mode**: Toggle between detailed and compact suggestion views
 
-## 🏗️ Project Architecture 
+## 🏗️ Project Architecture  
 
 ### 📁 File Structure
 ```
