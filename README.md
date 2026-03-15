@@ -16,7 +16,7 @@ A Powerful, Full-Stack AI-powered video editing application that combines cuttin
 - **🎨 AI Style Filters**: Neural style transfer with multiple artistic styles 
 - **🚫 AI Object Removal**: Bounding box selection with advanced inpainting technology (3-4x faster with parallel processing)
 - **⚡ Optimized Video Compilation**: Parallel processing for compiling up to 5 videos efficiently with 3x faster performance
-
+ 
 ### 🎨 User Experience
 - **Modern Web Interface**: Beautiful, responsive UI built with Next.js and Tailwind CSS
 - **Interactive Timeline Navigation**: Click on timeline dots to jump to specific editing suggestions
