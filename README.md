@@ -30,7 +30,7 @@ A Powerful, Full-Stack AI-powered video editing application that combines cuttin
 ## 🏗️ Project Architecture  
 
 ### 📁 File Structure
-```
+``` 
 videoeditor/
 ├── backend/                    # FastAPI backend server
 │   ├── main.py                # Main API server and endpoints
