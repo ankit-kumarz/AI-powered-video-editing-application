@@ -51,7 +51,7 @@ videoeditor/
 │   └── temp/                  # Temporary file storage
 ├── frontend/                  # Next.js frontend application
 │   ├── app/                   # Next.js 14 app directory
-│   │   ├── components/        # React components
+│   │   ├── components/        # React components 
 │   │   │   ├── AIEditingSelector.tsx      # AI editing feature selector
 │   │   │   ├── AIEditingSuggestions.tsx   # Interactive suggestions display
 │   │   │   ├── ScriptInput.tsx            # Script input component 
