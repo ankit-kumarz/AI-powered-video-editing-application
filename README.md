@@ -2,7 +2,7 @@
  
 A Powerful, Full-Stack AI-powered video editing application that combines cutting-edge machine learning technologies to transform your videos with minimal effort. Built with modern web technologies and advanced AI services. 
 ## 🌟 Features   
- 
+  
 ### 🎯 Core AI Features
 - **🤖 AI Video Optimization**: Complete end-to-end AI pipeline with scene analysis, silence removal, subtitle generation, and quality optimization
 - **✂️ AI Film Editing Suggestions**: Intelligent editing recommendations with cuts, transitions, emphasis, and pace changes based on video analysis
