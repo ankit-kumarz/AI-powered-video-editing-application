@@ -13,7 +13,7 @@ A Powerful, Full-Stack AI-powered video editing application that combines cuttin
 - **📝 AI Subtitle Generation**: Multi-language speech-to-text with SRT generation using OpenAI Whisper
 - **🎬 AI Scene Detection**: Automatic video splitting with individual download links
 - **🌍 Voice Translation & Dubbing**: Complete video localization with speech recognition, translation, AI voice generation, and subtitle translation
-- **🎨 AI Style Filters**: Neural style transfer with multiple artistic styles
+- **🎨 AI Style Filters**: Neural style transfer with multiple artistic styles 
 - **🚫 AI Object Removal**: Bounding box selection with advanced inpainting technology (3-4x faster with parallel processing)
 - **⚡ Optimized Video Compilation**: Parallel processing for compiling up to 5 videos efficiently with 3x faster performance
 
