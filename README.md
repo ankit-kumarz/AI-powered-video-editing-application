@@ -63,7 +63,7 @@ videoeditor/
 │   │   │   ├── VideoUploader.tsx
 │   │   │   └── VoiceTranslationSelector.tsx
 │   │   ├── api/               # API routes
-│   │   │   └── process-ai-editing/        # AI editing API endpoint
+│   │   │   └── process-ai-editing/        # AI editing API endpoint 
 │   │   ├── compilation/       # Compilation-related pages
 │   │   ├── globals.css        # Global styles 
 │   │   ├── layout.tsx         # Root layout 
