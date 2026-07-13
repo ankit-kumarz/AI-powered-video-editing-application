@@ -104,7 +104,7 @@ videoeditor/
   - Framer Motion (Animations)
   - React Dropzone (File uploads)  
   - Video.js (Video player) 
-- **HTTP Client**: Axios
+- **HTTP Client**: Axios 
 - **Utilities**: clsx, class-variance-authority, tailwind-merge
 
 ## 🚀 Quick Start Guide
