@@ -25,7 +25,7 @@ A Powerful, Full-Stack AI-powered video editing application that combines cuttin
 - **Preview Functionality**: Video preview before and after processing
 - **Batch Processing**: Process multiple features simultaneously 
 - **Suggestion Filtering**: Filter suggestions by type (cuts, transitions, emphasis, pace changes)
-- **Compact Mode**: Toggle between detailed and compact suggestion views
+- **Compact Mode**: Toggle between detailed and compact suggestion views 
 
 ## 🏗️ Project Architecture  
 
