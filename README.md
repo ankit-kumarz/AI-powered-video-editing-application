@@ -149,7 +149,7 @@ cd ..
  
 #### Option 1: Automated Start (Recommended) 
 ```bash
-# Windows (PowerShell)
+# Windows (PowerShell) 
 .\start.ps1
 
 # Windows (Command Prompt)
