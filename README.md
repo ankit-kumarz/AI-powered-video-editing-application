@@ -125,7 +125,7 @@ cd videoeditor
 
 # Windows (PowerShell)
 .\install_dependencies.ps1
- 
+  
 # Windows (Command Prompt)
 install_dependencies.bat
 ```
