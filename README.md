@@ -116,7 +116,7 @@ videoeditor/
 - **Git**: For cloning the repository
 
 ### Installation
-
+ 
 #### Option 1: Automated Setup (Recommended)
 ```bash
 # Clone the repository 
