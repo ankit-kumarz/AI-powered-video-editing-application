@@ -61,7 +61,7 @@ videoeditor/
 │   │   │   ├── VideoCompilationSelector.tsx 
 │   │   │   ├── VideoPreview.tsx
 │   │   │   ├── VideoUploader.tsx
-│   │   │   └── VoiceTranslationSelector.tsx
+│   │   │   └── VoiceTranslationSelector.tsx 
 │   │   ├── api/               # API routes
 │   │   │   └── process-ai-editing/        # AI editing API endpoint 
 │   │   ├── compilation/       # Compilation-related pages
