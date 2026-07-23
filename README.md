@@ -174,7 +174,7 @@ npm run dev
 ## 📖 Usage Guide
 
 ### 1. Upload Video
-- Drag and drop your video file or click to browse
+- Drag and drop your video file or click to browse 
 - Supported formats: MP4, MOV, WebM
 - Maximum file size: 500MB
 - Maximum duration: 10 minutes
