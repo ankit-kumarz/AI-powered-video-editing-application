@@ -68,7 +68,7 @@ videoeditor/
 │   │   ├── globals.css        # Global styles 
 │   │   ├── layout.tsx         # Root layout 
 │   │   └── page.tsx           # Main page
-│   ├── package.json           # Node.js dependencies
+│   ├── package.json           # Node.js dependencies 
 │   └── tailwind.config.js     # Tailwind CSS configuration
 ├── install_dependencies.bat   # Windows dependency installer
 ├── install_dependencies.ps1   # PowerShell dependency installer
