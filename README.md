@@ -119,7 +119,7 @@ videoeditor/
  
 #### Option 1: Automated Setup (Recommended)
 ```bash
-# Clone the repository 
+# Clone the repository  
 git clone https://github.com/ankit-kumarz/AI-powered-video-editing-application 
 cd videoeditor
 
