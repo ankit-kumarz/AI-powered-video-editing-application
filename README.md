@@ -151,7 +151,7 @@ cd ..
 ```bash
 # Windows (PowerShell) 
 .\start.ps1
-
+ 
 # Windows (Command Prompt)
 start.bat
 ```
