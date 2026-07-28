@@ -55,7 +55,7 @@ videoeditor/
 │   │   │   ├── AIEditingSelector.tsx      # AI editing feature selector
 │   │   │   ├── AIEditingSuggestions.tsx   # Interactive suggestions display
 │   │   │   ├── ScriptInput.tsx            # Script input component 
-│   │   │   ├── FeatureSelector.tsx
+│   │   │   ├── FeatureSelector.tsx 
 │   │   │   ├── ProcessingStatus.tsx 
 │   │   │   ├── StyleFilterSelector.tsx
 │   │   │   ├── VideoCompilationSelector.tsx 
