@@ -95,7 +95,7 @@ videoeditor/
 - **File Handling**: aiofiles, pathlib 
 - **Performance**: ThreadPoolExecutor for parallel processing 
 
-#### Frontend (Next.js/React)
+#### Frontend (Next.js/React) 
 - **Framework**: Next.js 14 with App Router
 - **Language**: TypeScript
 - **Styling**: Tailwind CSS
