@@ -80,7 +80,7 @@ videoeditor/
 ```
 
 ### 🔧 Technology Stack
- 
+  
 #### Backend (Python/FastAPI)   
 - **Framework**: FastAPI with async/await support
 - **AI/ML Libraries**:
