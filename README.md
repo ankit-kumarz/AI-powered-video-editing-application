@@ -156,7 +156,7 @@ cd ..
 start.bat
 ```
 
-#### Option 2: Manual Start
+#### Option 2: Manual Start 
 ```bash 
 # Terminal 1: Start backend server
 python run_backend.py
