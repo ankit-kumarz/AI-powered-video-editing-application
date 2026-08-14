@@ -117,7 +117,7 @@ videoeditor/
 
 ### Installation
  
-#### Option 1: Automated Setup (Recommended)
+#### Option 1: Automated Setup (Recommended) 
 ```bash
 # Clone the repository  
 git clone https://github.com/ankit-kumarz/AI-powered-video-editing-application 
