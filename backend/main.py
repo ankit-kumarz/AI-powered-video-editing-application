@@ -125,7 +125,7 @@ async def _probe_duration_seconds(path: str) -> float | None:
     """Return duration in seconds using ffprobe, or None if unavailable."""
     try:
         cmd = [
-            'ffprobe', '-v', 'error', '-show_entries', 'format=duration',
+            'ffprobe', '-v', 'error', '-show_entries', 'format=duration', 
             '-of', 'default=nw=1:nk=1', path
         ]
         result = subprocess.run(cmd, check=True, capture_output=True, text=True)
