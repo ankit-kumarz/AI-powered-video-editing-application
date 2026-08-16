@@ -55,7 +55,7 @@ def get_service(service_name):
     elif service_name == "voice_translate":
         from services.voice_translate_optimized import OptimizedVoiceTranslationService
         return OptimizedVoiceTranslationService()
-    elif service_name == "style_filters":
+    elif service_name == "style_filters": 
         from services.style_filters import StyleFilterService
         return StyleFilterService()
     elif service_name == "object_removal":
