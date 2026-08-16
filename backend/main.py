@@ -106,7 +106,7 @@ async def upload_video(file: UploadFile = File(...)):
             pass
 
         # Initialize processing status
-        processing_status[upload_id] = {
+        processing_status[upload_id] = { 
             "status": "uploaded",
             "file_path": str(file_path), 
             "filename": file.filename,
