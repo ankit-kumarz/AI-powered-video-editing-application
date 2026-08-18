@@ -185,7 +185,7 @@ Choose from individual AI features or use the comprehensive "AI Video Optimizati
 #### Individual Features:
 - **🎬 AI Film Editing Suggestions**: Get intelligent editing recommendations with interactive timeline
 - **📝 Script Analysis**: Upload a script for script-based editing suggestions
-- **🎭 Background Removal**: Remove and replace video backgrounds
+- **🎭 Background Removal**: Remove and replace video backgrounds 
 - **📝 Subtitle Generation**: Generate subtitles from speech
 - **🎬 Scene Detection**: Split video into individual scenes 
 - **🌍 Voice Translation**: Translate speech to different languages 
