@@ -97,7 +97,7 @@ videoeditor/
 
 #### Frontend (Next.js/React)  
 - **Framework**: Next.js 14 with App Router
-- **Language**: TypeScript
+- **Language**: TypeScript. 
 - **Styling**: Tailwind CSS
 - **UI Components**:  
   - Lucide React (Icons) 
