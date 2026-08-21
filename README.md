@@ -114,7 +114,7 @@ videoeditor/
 - **Node.js**: 18 or higher
 - **FFmpeg**: Installed and added to system Path
 - **Git**: For cloning the repository
-
+ 
 ### Installation
  
 #### Option 1: Automated Setup (Recommended) 
