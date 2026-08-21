@@ -252,7 +252,7 @@ For AI editing:
 The AI editing system analyzes your video using multiple techniques:
 
 #### **Video-Based Analysis**:
-- **Scene Change Detection**: Identifies natural cut points
+- **Scene Change Detection**: Identifies natural cut points. 
 - **Face Detection**: Finds important moments with people
 - **Composition Analysis**: Evaluates visual quality and flow 
 - **Audio Analysis**: Detects speech, music, and silence patterns
