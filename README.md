@@ -235,7 +235,7 @@ For AI editing:
 - Monitor real-time progress in the status panel
 - Processing time varies based on video length and selected features
 
-### 6. Explore Suggestions
+### 6. Explore Suggestions 
 - **Timeline Navigation**: Use the interactive timeline to explore suggestions
 - **Filter Options**: Filter by suggestion type or search by description
 - **Detailed View**: Click suggestions to see full details and reasoning
