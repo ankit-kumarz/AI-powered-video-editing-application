@@ -33,7 +33,7 @@ A Powerful, Full-Stack AI-powered video editing application that combines cuttin
 ``` 
 videoeditor/ 
 ├── backend/                    # FastAPI backend server
-│   ├── main.py                # Main API server and endpoints
+│   ├── main.py                # Main API server and endpoints 
 │   ├── services/              # AI processing services 
 │   │   ├── ai_editing_suggestions.py  # AI editing suggestions service
 │   │   ├── script_analysis.py         # Script analysis service
