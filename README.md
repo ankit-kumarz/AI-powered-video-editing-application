@@ -129,7 +129,7 @@ cd videoeditor
 # Windows (Command Prompt)
 install_dependencies.bat
 ``` 
- 
+  
 #### Option 2: Manual Setup  
 ```bash 
 # Clone the repository
