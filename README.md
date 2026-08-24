@@ -225,7 +225,7 @@ For voice translation:
 - Select target language (14 supported languages)
 - Choose voice type (male/female)
 - Configure subtitle options  
-
+ 
 For AI editing:
 - Upload optional script for enhanced suggestions
 - Choose analysis features (video-based, script-based, or both)
