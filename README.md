@@ -207,7 +207,7 @@ The new AI Film Editing Suggestions feature provides:
 - **⭐ Emphasis**: Face detection, key moments, important dialogue
 - **⚡ Pace Changes**: Pacing adjustments, hold moments, quick cuts
 
-#### 🎬 **Interactive Timeline Features**:
+#### 🎬 **Interactive Timeline Features**: 
 - **Colored Markers**: Different colors for each suggestion type
 - **Click Navigation**: Click any dot to jump to that timestamp
 - **Hover Tooltips**: See suggestion details on hover
