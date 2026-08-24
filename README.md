@@ -73,7 +73,7 @@ videoeditor/
 ├── install_dependencies.bat   # Windows dependency installer
 ├── install_dependencies.ps1   # PowerShell dependency installer
 ├── run_backend.bat           # Windows backend runner
-├── run_backend.ps1           # PowerShell backend runner
+├── run_backend.ps1           # PowerShell backend runner 
 ├── start.bat                 # Windows full application starter
 ├── start.ps1                 # PowerShell full application starter
 └── README.md                 # This file
