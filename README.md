@@ -82,7 +82,7 @@ videoeditor/
 ### 🔧 Technology Stack
   
 #### Backend (Python/FastAPI)   
-- **Framework**: FastAPI with async/await support
+- **Framework**: FastAPI with async/await support 
 - **AI/ML Libraries**:
   - OpenAI Whisper (Speech recognition)
   - Rembg (Background removal)
