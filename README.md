@@ -22,7 +22,7 @@ A Powerful, Full-Stack AI-powered video editing application that combines cuttin
 - **Interactive Timeline Navigation**: Click on timeline dots to jump to specific editing suggestions
 - **Real-time Processing**: Live progress updates and status monitoring
 - **Drag & Drop Upload**: Intuitive video upload with format validation
-- **Preview Functionality**: Video preview before and after processing 
+- **Preview Functionality**: Video preview before and after processing  
 - **Batch Processing**: Process multiple features simultaneously 
 - **Suggestion Filtering**: Filter suggestions by type (cuts, transitions, emphasis, pace changes)
 - **Compact Mode**: Toggle between detailed and compact suggestion views   
