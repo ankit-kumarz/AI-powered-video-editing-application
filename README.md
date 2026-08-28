@@ -10,7 +10,7 @@ A Powerful, Full-Stack AI-powered video editing application that combines cuttin
 - **🎬 Interactive Timeline**: Visual timeline with colored markers for different editing suggestions and click-to-navigate functionality
 - **✂️ AI Auto-Cut & Transitions**: Intelligent scene-aware cuts with smooth transitions and smart merging
 - **🎭 AI Background Removal**: Advanced background removal with replacement options using Rembg
-- **📝 AI Subtitle Generation**: Multi-language speech-to-text with SRT generation using OpenAI Whisper
+- **📝 AI Subtitle Generation**: Multi-language speech-to-text with SRT generation using OpenAI Whisper 
 - **🎬 AI Scene Detection**: Automatic video splitting with individual download links 
 - **🌍 Voice Translation & Dubbing**: Complete video localization with speech recognition, translation, AI voice generation, and subtitle translation
 - **🎨 AI Style Filters**: Neural style transfer with multiple artistic styles 
