@@ -107,7 +107,7 @@ videoeditor/
 - **HTTP Client**: Axios 
 - **Utilities**: clsx, class-variance-authority, tailwind-merge
 
-## 🚀 Quick Start Guide
+## 🚀 Quick Start Guide 
   
 ### Prerequisites 
 - **Python**: 3.10 or higher
