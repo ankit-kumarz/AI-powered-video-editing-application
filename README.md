@@ -101,7 +101,7 @@ videoeditor/
 - **Styling**: Tailwind CSS
 - **UI Components**:  
   - Lucide React (Icons) 
-  - Framer Motion (Animations)
+  - Framer Motion (Animations) 
   - React Dropzone (File uploads)  
   - Video.js (Video player) 
 - **HTTP Client**: Axios 
